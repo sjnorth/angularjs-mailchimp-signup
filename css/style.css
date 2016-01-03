@@ -1,6 +1,29 @@
 body {
     background-color: #f9f9f9;
 }
+#logo {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#places {
+    font-size: 50px;
+    font-family: 'Helvetica Neue', sans-serif;
+    font-style: italic;
+    font-weight: lighter;
+    color: black;
+    display: inline;
+
+}
+#brands {
+    font-size: 50px;
+    font-family: 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    color: #ff6600;
+    display: inline;
+}
 
 .signup-wrapper {
     top: 36px;
